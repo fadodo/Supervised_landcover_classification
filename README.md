@@ -18,3 +18,10 @@ Development Environment: google colab
 In this example, model evaluation has shows that the Random Forest model provides the best perfomance of 73% over SVM (66%).
 
 
+  <table style="border-collapse: collapse;">
+  <tr>
+    <td><img src="https://github.com/fadodo/Supervised_landcover_classification/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-04-15%2016-48-17.png" width="300"></td>
+    <td><img src="https://github.com/fadodo/Supervised_landcover_classification/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-04-15%2016-49-47.png" width="300"></td>
+    <td><img src="https://github.com/fadodo/Supervised_landcover_classification/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-04-15%2016-51-06.png" width="300"></td>
+  </tr>
+</table>
